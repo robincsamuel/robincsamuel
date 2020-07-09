@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Robin, a full-stack developer cum architect focused on building secure & scalable web applications.
+
+Get in touch 👉 hi@robinz.in
+
+
 <!--
 **robincsamuel/robincsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
