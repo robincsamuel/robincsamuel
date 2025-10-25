@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robin, a full-stack developer cum architect focused on building secure & scalable web applications.
+I'm Robin, a full-stack developer and architect focused on building secure & scalable web applications. 
 
 Get in touch 👉 hi@robinz.in
 
